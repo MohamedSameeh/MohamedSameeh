@@ -1,22 +1,28 @@
-<h1 align="center">Hi 👋, I'm Mohamed Sameeh</h1>
-<h3 align="center">A passionate Mobile App developer from Egypt</h3>
+# Mohamed Sameeh
 
-- 🌱 I’m currently learning **Flutter, Android development**
+**Flutter & AI Engineer.** I build mobile apps for small businesses and startups: e-commerce, booking, internal tools, and apps with AI features such as chat assistants and document analysis.
 
-- 💬 Ask me about **Anything**
+Based in Egypt (UTC+2). Available for freelance work.
 
-- 📫 How to reach me **taktshfw@gmail.com**
+## What I build
 
-- ⚡ Fun fact **always learning**
+- **Flutter apps** for Android, iOS and web from one codebase: clean architecture, Bloc/Cubit, Firebase or REST backends, Arabic/English with full RTL.
+- **AI features inside apps**: chat assistants with session history, document upload and analysis, retrieval over a private knowledge base.
+- **Backends and web products**: REST APIs in Python (Django REST, FastAPI), and full products in Next.js with Postgres and payments.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mohamed-sameeh-28011a16a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-sameeh-28011a16a" height="30" width="40" /></a>
-<a href="https://fb.com/taktshfw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="taktshfw" height="30" width="40" /></a>
-<a href="https://instagram.com/m_sameeh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_sameeh_" height="30" width="40" /></a>
-</p>
+## Selected work
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
+| Project | What it is | Stack |
+|---|---|---|
+| [Fashion-Store](https://github.com/MohamedSameeh/Fashion-Store) | Fashion e-commerce app: catalog, search and filters, cart, checkout, order tracking, owner sales dashboard | Flutter, Firebase, Bloc |
+| Estashirna (private) | AI legal assistant: chat, document analysis, guided case intake, Arabic/English RTL | Flutter, Clean Architecture, REST |
+| Lamsa (private) | Self-serve SaaS for wedding invitation pages: builder, checkout, admin console | Next.js, Postgres, Drizzle |
+| [Tasky](https://github.com/MohamedSameeh/Tasky-app) | Task planner with calendar, filters and an insights dashboard | Flutter, Firebase |
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedsameeh&show_icons=true&locale=en&layout=compact" alt="mohamedsameeh" /></p>
+## Tools
+
+Flutter · Dart · Bloc/Cubit · Firebase · REST APIs · Kotlin/Java (Android) · Python · Django REST · FastAPI · Next.js · TypeScript · PostgreSQL
+
+## Contact
+
+LinkedIn: [mohamed-sameeh](https://linkedin.com/in/mohamed-sameeh-28011a16a)
